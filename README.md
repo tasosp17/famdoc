@@ -25,3 +25,11 @@ cd backend
 cd frontend
 npm install
 npm start
+
+<img width="957" height="534" alt="image" src="https://github.com/user-attachments/assets/8d546cca-7482-4fa0-89d3-afa84d6457f9" />
+<img width="959" height="535" alt="image" src="https://github.com/user-attachments/assets/fc44704c-0ae2-4538-9140-21d257a0bc72" />
+<img width="957" height="534" alt="image" src="https://github.com/user-attachments/assets/b71fede2-0092-4821-a5d5-4924f4c78c96" />
+<img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/380a75c6-fd9f-4130-be2c-3bbdda746617" />
+
+
+
